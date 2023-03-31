@@ -1,3 +1,5 @@
+
+// Solution 1
 //Step 1: To create char bilder functions
 function CharBuilder(str) {
     let charmap_obj = {};
